@@ -19,7 +19,6 @@ public class At5 {
         listaInteiros.replaceAll(l -> l * 3);
 
         System.out.println("Lista multiplicada: " + listaInteiros);
-
     }
 
 }
